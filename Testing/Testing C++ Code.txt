@@ -1,0 +1,8 @@
+#include <iostream>
+
+int main() {
+    while (true) { // Infinite loop
+        std::cout << "Hello, world!" << std::endl;
+    }
+    return 0;
+}

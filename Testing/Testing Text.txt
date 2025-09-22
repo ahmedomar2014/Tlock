@@ -1,0 +1,2 @@
+In these days, I noticed that there are many cyberattacks. So I decided to create an app that encrypts the text by 48 layers of encryption. 
+T-lock is a project that encrypts text with 48 layers of encryption and it can encrypt text and decrypt it. It is written in Python. It can also encrypt and decrypt voice, images and Python code.
